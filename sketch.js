@@ -110,7 +110,7 @@ blocks8.display();
 fill("grey");
 blocks9.display();
 text("drag the ball and release to hit the boxes!!",200,100);
-
+text("press space to get another chance!!",200,20)
 ellipse(ball.position.x,ball.position.y,20);
 slingShot.display();
 
